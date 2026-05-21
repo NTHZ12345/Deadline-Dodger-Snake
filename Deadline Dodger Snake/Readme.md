@@ -1,6 +1,6 @@
 # Deadline Dodger Snake
 
-Collect study points. Avoid deadlines.
+Collect study points. Avoid burnout.
 
 ## Overview
 
